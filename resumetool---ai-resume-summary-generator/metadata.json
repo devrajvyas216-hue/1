@@ -1,0 +1,8 @@
+{
+  "name": "ResumeTool - AI Resume Summary Generator",
+  "description": "Generate professional, ATS-friendly resume summaries instantly for students and professionals. Optimized for freshers and job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
