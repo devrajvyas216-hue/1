@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resumetool.site/sitemap.xml
+Sitemap: https://www.resumetool.site/sitemap.xml
+
